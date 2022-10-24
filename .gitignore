@@ -1,0 +1,10 @@
+/target/
+*.log
+*.out
+*.aux
+*.bcf
+*.run.xml
+*.synctex.gz
+*.pdf
+*.tex
+*.cls
